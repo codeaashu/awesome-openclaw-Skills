@@ -60,7 +60,7 @@ Priority: Workspace > Local > Bundled
 - [Search & Research](#search--research) (23)
 - [Clawdbot Tools](#clawdbot-tools) (17)
 - [CLI Utilities](#cli-utilities) (41)
-- [Marketing & Sales](#marketing--sales) (43)
+- [Marketing & Sales](#marketing-sales) (43)
 - [Productivity & Tasks](#productivity--tasks) (41)
 - [AI & LLMs](#ai--llms) (38)
 - [Finance](#finance) (29)
@@ -365,6 +365,7 @@ Priority: Workspace > Local > Bundled
 
 </details>
 
+<a id="marketing-sales"></a>
 <details>
 <summary><h3 style="display:inline">Marketing & Sales</h3></summary>
 
