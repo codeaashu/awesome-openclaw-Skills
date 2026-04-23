@@ -402,7 +402,7 @@ Priority: Workspace > Local > Bundled
 - [schema-markup](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/schema-markup/SKILL.md) - When the user wants to add, fix, or optimize schema markup and structured data on their site.
 - [signup-flow-cro](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/signup-flow-cro/SKILL.md) - When the user wants to optimize signup, registration, account creation, or trial activation flows.
 - [solobuddy](https://github.com/openclaw/skills/tree/main/skills/humanji7/solobuddy/SKILL.md) - Build-in-public companion for indie hackers — content workflow, Twitter engagement.
-- [tweetclaw](https://github.com/Xquik-dev/tweetclaw) - Full X/Twitter automation for OpenClaw — post tweets, reply, like, retweet, follow, DM & 40+ tools.
+- [tweetclaw](https://github.com/openclaw/skills/tree/main/skills/kriptoburak/tweetclaw/SKILL.md) - Full X/Twitter automation for OpenClaw - post tweets, reply, like, retweet, follow, DM & 40+ tools.
 - [twenty-crm](https://github.com/openclaw/skills/tree/main/skills/jhumanj/twenty-crm/SKILL.md) - Interact with Twenty CRM (self-hosted) via REST/GraphQL.
 - [typefully](https://github.com/openclaw/skills/tree/main/skills/thesethrose/typefully/SKILL.md) - |.
 - [x-article-editor](https://github.com/openclaw/skills/tree/main/skills/jchopard69/x-article-editor/SKILL.md) - TL;DR: Turn a topic or draft into a high-engagement X Article. STEP 1 final copy/paste article.
