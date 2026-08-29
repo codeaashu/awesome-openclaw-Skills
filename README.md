@@ -938,3 +938,15 @@ MIT License - see [LICENSE](LICENSE)
 Skills in this list are sourced from the [OpenClaw official skills repo](https://github.com/openclaw/skills/tree/main/skills) and categorized for easier discovery. Skills listed here are created and maintained by their respective authors, not by us. We do not audit, endorse, or guarantee the security or correctness of listed projects. They are not security-audited and should be reviewed before production use.
 
 If you find an issue with a listed skill or want your skill removed, please [open an issue](https://github.com/codeaashu/awesome-openclaw-skills/issues) and we'll take care of it promptly.
+
+
+---
+
+Cooked by aashuu ✦ (Ashutosh Kumar)<br>
+Founder of [2C Labs](https://www.2clabs.tech)
+
+I build tech businesses through SaaS products across every layer of the internet ( Web2 ▪︎ Web3 ▪︎ AI-native ▪︎ Infrastructure )
+
+Connect here:<br>
+Website [www.aashuu.me](https://www.aashuu.me) ✦  𝕏 [@warrioraashuu](https://x.com/warrioraashuu) ✦  LinkedIn [@warrioraashuu](https://www.linkedin.com/in/warrioraashuu/)
+
